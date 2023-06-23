@@ -2,7 +2,7 @@
 
 
 ### About me <img src="https://user-images.githubusercontent.com/124085316/232653505-5dc9c01d-bd7b-49a9-9359-0f179cdec75d.png" width="50">
-🌱 Incoming Grade 11 student aspiring to pursue a post-secondary path in Software Engineering <br></br>
+🌱 Incoming Grade 12 student aspiring to pursue a post-secondary path in Software Engineering <br></br>
 🎧 Currently learning React + Redux and JavaScript 
 
 ### Works
