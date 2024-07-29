@@ -2,11 +2,11 @@
 
 
 ### About me <img src="https://user-images.githubusercontent.com/124085316/232653505-5dc9c01d-bd7b-49a9-9359-0f179cdec75d.png" width="50">
-🌱 Grade 12 student aspiring to pursue a post-secondary path in Software Engineering <br></br>
+🌱 Hello, I'm Elizabeth! I'm an incoming engineering 1 student @ McMasterU with a keen interest in software development.<br></br>
 🎧 Currently learning React + Redux and JavaScript 
 
 ### Works
-🪷 Most Recent Project [Ghibli Inspired Study Timer](https://elizabeths-pomodoro.netlify.app)
+🪷 Most Recent Project [Ghibli Inspired Pomodoro Timer](https://elizabeths-pomodoro.netlify.app)
 
 ### Contact
 ✉️ Connect with me on <a href="https://www.linkedin.com/in/elizabeth-cay-8217ba261/">LinkedIn</a>
