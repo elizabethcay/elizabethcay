@@ -11,6 +11,6 @@
 
 
 [hi, i'm elizabeth!](https://www.linkedin.com/in/elizabeth-cay/) i'm currently..
-- a software engineer @ develop for good
+- a software engineer @ nenos Inc
 - dabbling in wheel pottery
 - modding my mech keyboards for optimal thock
